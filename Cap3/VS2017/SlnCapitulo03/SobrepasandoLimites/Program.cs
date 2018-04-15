@@ -44,9 +44,7 @@ namespace SobrepasandoLimites
             //    int numero = int.MinValue - 1;
             //    Console.WriteLine(++numero);
             //}
-
-            int numero;
-
+            
             Console.ReadKey();
         }
     }
